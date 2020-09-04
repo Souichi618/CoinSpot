@@ -24,13 +24,14 @@ During Angela's IOS13 & Swift5 course , the code of ByteCoin-IOS13 is modified t
             3rd prefixed by "ASK" : Asking price
             
    Text editor input : quantity of coin
-      In case of add button is clicked  
+   
+        In case of add button is clicked  
       
-         display calculate last price times quantity of coin 
+            display calculate last price times quantity of coin 
          
-      In case of total button is clicked
+        In case of total button is clicked
       
-         display total amount of coins which quantity of coin is placed
+            display total amount of coins which quantity of coin is placed
          
     PickerView contains 2 commands, Update and Save, and Coin,  BTC,LTC,DOGE,ETH,POWR,ANS,XRP,TRX,EOS,STR,GAS
        
